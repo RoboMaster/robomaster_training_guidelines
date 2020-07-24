@@ -40,7 +40,6 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-
 # -- Options for HTML output -------------------------------------------------
 language = 'zh'
 html_search_language =  'zh_CN'
