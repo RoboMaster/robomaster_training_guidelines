@@ -1,3 +1,8 @@
+.. 参赛攻略 documentation master file, created by
+   sphinx-quickstart on Fri Jul 10 15:54:48 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
 .. image:: images/cover.png
 
 欢迎来到 RoboMaster 参赛攻略！
